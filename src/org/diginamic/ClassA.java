@@ -9,4 +9,8 @@ public class ClassA {
 	public void method2() {
 		System.out.println("Je suis la méthode 2");
 	}
+	
+	public void method3() {
+		System.out.println("Je suis la méthode 3");
+	}
 }

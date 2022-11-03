@@ -6,7 +6,7 @@ public class TestB {
 		System.out.println("Je suis la méthode 1");
 	}
 	
-	public void test2() {
-		System.out.println("Je suis la méthode 2");
+	public void methodeNonInteressante() {
+		System.out.println("Cette méthode ne doit pas être intégrée à la branche master");
 	}
 }
